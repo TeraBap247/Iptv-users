@@ -351,3 +351,19 @@ https://vipiptv.fun/stream.php?token=e612dae3530c7b364c49200c31ad67e93b77db2f198
 https://vipiptv.fun/stream.php?token=e612dae3530c7b364c49200c31ad67e93b77db2f198493ce35deabf0ea2504ca&channel=Disney+XD&rand=234580
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony Sports Ten 5 HD
 https://vipiptv.fun/stream.php?token=e612dae3530c7b364c49200c31ad67e93b77db2f198493ce35deabf0ea2504ca&channel=+Sony+Sports+Ten+5+HD&rand=909256
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Kolkata",AAKAASH
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=AAKAASH&rand=235846
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=ATN+Bangla&rand=363920
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/star-plus.png" group-title="Popular Channel",Star Plus HD
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=Star+Plus+HD&rand=209249
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Movie Channel",STAR MOVIES SELECT HD
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=STAR+MOVIES+SELECT+HD&rand=641549
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/disney-hindi.png" group-title="Kids",Disney Hindi
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=Disney+Hindi&rand=322126
+#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="Others Channel",NAT GEO BANGLA
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=NAT+GEO+BANGLA&rand=140399
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Popular Channel",STAR JALSHA HD
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=STAR+JALSHA+HD&rand=654066
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6562a84816a8995a0ad41c76cd6ff7be.png" group-title="Kids",CARTOON NETWORK English
+https://vipiptv.fun/iptv2/stream.php?token=3552199c78cdc8cc47336ee7ddcd89e7f634e8c9a98d0f85dead0671192efed9&channel=CARTOON+NETWORK+English&rand=477248
